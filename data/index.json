@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image": "img/ship07.jpg",
+        "description": "Featuring more than 40 restaurants, seven pools, an indoor aqua theater and the largest waterpark at sea, Royal Caribbean’s Icon of the Seas is being billed as the “ultimate family vacation" 
+    },
+    {
+        "id": 2,
+        "image": "img/ship03.jpg",
+        "description": "That’s certainly been the mantra for Miami based cruise line Royal Caribbean, who just announced their largest ship Icon of the Seas will officially enter service in 2024. At maximum capacity, Icon will be capable of hosting 7,600 passengers on its inaugural sail on January 28, 2024." 
+    },
+    {
+        "id": 3,
+        "image": "img/ship06.jpg",
+        "description": "Once it’s completed, the ship will measure in at 20-decks high, 1,200 feet long, and 250,800 gross tons. This floating mini-city is expected to sail year round and offer seven-night Eastern and Western Caribbean cruises out of Miami." 
+    }
+]
